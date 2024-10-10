@@ -12,19 +12,12 @@ This repository hosts the releases for the Pulsar User Interface. While our back
 
 #### 🛠️ Installation
 
-1. Download the appropriate installer for your operating system.
-
-First install the backend via the installer, it will take care of both the UI and backend installation.
-- 🪟 [Windows Installer](link-to-windows-installer)
-- 🐧 [Linux AppImage](link-to-linux-appimage)
-
-If you had already downloaded it you can just download the latest UI version and log in in to your account
-2. Execute the installer and follow the on-screen instructions.
-3. Launch Pulsar and establish a connection to your local Pulsar backend.
+1. Download the appropriate installer of the server for your operating system from [here](https://github.com/astramind-ai/PulsarInstaller) and follow the installation process.
+2. Download the latest UI Release for your system in this repo
 
 ## 🤝 Feedback and Contributions
 
-While the UI is closed-source, we greatly value community input:
+We greatly value community input:
 
 - For UI-related bug reports or feature requests, please open an issue in this repository.
 - For backend-related issues or contributions, visit our [main repository](https://github.com/astramind-ai/Pulsar).
@@ -35,9 +28,9 @@ Your feedback is invaluable in helping us improve Pulsar. As a small team with b
 
 We're continuously working to enhance Pulsar. Here's a glimpse of our planned improvements:
 
-- Advanced model management interface
-- Enhanced visualization of AI outputs
-- Improved integration with popular development tools
+- [ ] LoRA Extraction from the UI  
+- [ ] Image generation and voice-to-voice interaction 
+- [ ] Improved integration with popular development tools
 
 ## 🌐 Stay Connected
 
