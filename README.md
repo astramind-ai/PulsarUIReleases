@@ -1,3 +1,14 @@
+# ⚠️ Windows Security Alert: Don't worry!
+
+If Windows flags our installer, it's just a temporary hiccup with code certificates. We assure you:
+
+The app is 100% safe 
+
+This is a common issue with new software.
+
+We're fixing it ASAP.
+
+
 # 🚀 Pulsar UI Releases
 
 Welcome to the Pulsar UI Releases page! We're excited to share our progress in making advanced AI accessible locally.
