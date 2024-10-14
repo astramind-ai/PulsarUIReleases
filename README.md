@@ -1,3 +1,5 @@
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/BEMVTmcPEs)](https://discord.gg/https://discord.gg/BEMVTmcPEs)
+
 # ⚠️ Windows Security Alert: Don't worry!
 
 If Windows flags our installer, it's just a temporary hiccup with code certificates. We assure you:
